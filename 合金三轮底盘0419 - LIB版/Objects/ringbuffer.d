@@ -1,0 +1,16 @@
+.\objects\ringbuffer.o: MotionCard\ringbuffer.c
+.\objects\ringbuffer.o: MotionCard\ringbuffer.h
+.\objects\ringbuffer.o: MotionCard\calculate.h
+.\objects\ringbuffer.o: .\xp\MotionCard.h
+.\objects\ringbuffer.o: .\CMSIS\stm32f4xx.h
+.\objects\ringbuffer.o: .\CMSIS\core_cm4.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\ringbuffer.o: .\CMSIS\system_stm32f4xx.h
+.\objects\ringbuffer.o: MotionCard\Bspline.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\ringbuffer.o: MotionCard\posSystem.h
+.\objects\ringbuffer.o: MotionCard\SpeedPlaning.h
